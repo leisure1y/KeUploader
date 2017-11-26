@@ -10,6 +10,7 @@ __2.Clone and cd then sh upload.sh__
 
 
 ```shell
+rm -rf KindleEar
 git clone https://github.com/leisure1y/KeUploader.git
 or git clone https://github.com/leisure1y/KindleEar.git
 cd KeUploader
