@@ -15,6 +15,7 @@ git clone https://github.com/leisure1y/KeUploader.git
 or git clone https://github.com/leisure1y/KindleEar.git
 cd KeUploader
 or cd KindleEar
+appcfg.py update ./
 
 sh upload.sh
 ```
